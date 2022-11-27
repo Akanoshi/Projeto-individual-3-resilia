@@ -51,6 +51,32 @@
     {
       "id": 2,
       "nome": "Refrigerantes"
+    },
+    {
+      "id": 3,
+      "nome": "Pizzas"
+    },
+    {
+      "id": 4,
+      "nome": "Salgadinhos"
+    }
+  ],
+  "pagamento": [
+    {
+      "id": 1,
+      "forma": "Pix"
+    },
+    {
+      "id": 2,
+      "forma": "cartão-débito"
+    },
+    {
+      "id": 3,
+      "forma": "cartão-crédito"
+    },
+    {
+      "id": 4,
+      "forma": "dinheiro"
     }
   ]
 }
