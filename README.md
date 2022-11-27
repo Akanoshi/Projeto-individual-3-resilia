@@ -1,2 +1,1 @@
-# Projeto-individual-3-resilia
-j-son server
+Projeto j-son server api rest
