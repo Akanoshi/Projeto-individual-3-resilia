@@ -1,5 +1,9 @@
 {
   "dependencies": {
     "vite": "^3.2.4"
-  }
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1" 
+  },
 }
