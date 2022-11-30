@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: rgb(18, 20, 43);
+    height: 8vh;
+}
+ul {
+    display: flex;
+}
+ul li{
+    margin-left: 80px;
+    margin-right: 40px;
+}
+h2 {
+    letter-spacing: 3px;
+    font-family: "Caveat";
+    margin-left: 40px;
+}
